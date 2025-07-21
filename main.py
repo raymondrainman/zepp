@@ -7,8 +7,8 @@ from flask import Flask
 from threading import Thread
 
 # Config uit omgevingsvariabelen
-TELEGRAM_TOKEN = os.environ['TELEGRAM_TOKEN']
-CHAT_ID = int(os.environ['CHAT_ID'])
+TELEGRAM_TOKEN = os.environ['7733338006:AAG-nblQ5QGrO_U9scNYGPkVyQSEUhrZWuI']
+CHAT_ID = int(os.environ['6437002032'])
 SYMBOL = 'BTC/USDT'
 TIMEFRAME = '15m'
 MA_PERIOD = 9
